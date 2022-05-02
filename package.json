@@ -1,0 +1,29 @@
+{
+  "name": "workflow-2-course-assignment-prebeneide",
+  "version": "1.0.0",
+  "description": "## Brief",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-prebeneide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-prebeneide/issues"
+  },
+  "homepage": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-prebeneide#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/preset-typescript": "^7.16.7",
+    "@parcel/transformer-sass": "^2.5.0",
+    "@types/jest": "^27.4.1",
+    "babel-jest": "^28.0.3",
+    "jest": "^28.0.3"
+  }
+}
